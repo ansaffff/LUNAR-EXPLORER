@@ -1,0 +1,6 @@
+{
+  "name": "LunarNav – Lunar Landing Site Explorer",
+  "description": "Interactive 3D lunar landing site exploration dashboard with realistic surface visualization, terrain metrics, and AI-powered landing safety analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
